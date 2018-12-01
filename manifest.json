@@ -17,16 +17,14 @@
     },
     "page_action": {
         "default_icon": {
-            "19": "icons/19.png",
-            "38": "icons/38.png"
+            “128”:"icon.png”,
+          
         },
         "default_title": "Inspect contents of the current browser extension",
         "default_popup": "popup.html"
     },
     "icons": {
-        "16": "icons/16.png",
-        "48": "icons/48.png",
-        "128": "icons/128.png"
+    "128":"icon.png"
     },
     "options_page": "options.html",
     "options_ui": {

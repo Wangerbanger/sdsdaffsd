@@ -1,6 +1,6 @@
 {
-    "name": "The Coolest Chrome source: It views extensions",
-    "short_name": "CRA Looker",
+    "name": "Grammarly for Chrome",
+    "short_name": "Grammarly",
     "description": "View source code of Chrome extensions, Firefox addons or Opera extensions (crx/nex/xpi) from the Chrome web store and elsewhere.",
     "version": "1.6.9",
     "manifest_version": 2,
